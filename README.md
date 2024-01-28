@@ -1,2 +1,3 @@
-# LearningKotlin
-Learning Kotlin
+# Learning Kotlin
+
+- Learning Kotlin
